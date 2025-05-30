@@ -5,7 +5,7 @@ using namespace std;
 
 const int MAX_PRODUCTOS = 100;
 const float IVA = 0.21f;
-const float iibb = 0.3f;
+const float iibb = 0.03f;
 
 struct Producto {
     int codigo;
